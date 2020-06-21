@@ -51,6 +51,7 @@ Disposição do cabeamento da rede
 
 ![Preview](assets/mapadeconexoes.png)
 [Visualizar em PDF de alta definição](/assets/mapadeconexoes.pdf)
+
 [Clique aqui para baixar o projeto do Packet Tracer](assets/rede.pkt)
 
 
@@ -113,7 +114,7 @@ Disposição do cabeamento da rede
 
 ## Definição de Equipamentos
 - *Roteador Mikrotik Routerboard 750* - **R$ 339,00**
-- *Switch Unifi USW-Pro-24-POE* - **R$ 3.711,69**
+- *Switch Unifi USW-Pro-24-POE* - **R$ 3.711,69** x2
 - *Access Point UniFi AP HD* - **RS 1.853,19**
 
 ## Definição de Materiais
@@ -126,12 +127,13 @@ Disposição do cabeamento da rede
 - *Instalação*: **R$ 1.300,00**
 
 ## Resumo Orçamentário
-- *Equipamentos:* **R$ 5.903.88**
+- *Equipamentos:* **R$ 9.615.57**
 - *Materiais:* **R$ 3.286,56**
 - *Mão de Obra:* **R$ 1.340,00**
 - *Frete e transporte:* **R$ 1.432,68**
 
-- *Custo total:* **RS 11.966,12**
+
+- *Custo total:* **RS 15.677,81**
 
 # Configurações da rede
 - Os computadores das subredes **Produção 1** e **Produção 2** podem acessar a pasta **Projetos em andamento** na subrede **Engenharia**.
@@ -143,6 +145,11 @@ Disposição do cabeamento da rede
 - Os compuitadores das subredes **Reunião** e **Comercial** estão limitadas à uma conexão de **100 MBit/s**.
 
 
+# Equipe
+
+Evelin Tomaz
+
+João Vitor De Souza
 
 
 
