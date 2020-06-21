@@ -110,6 +110,10 @@ Disposição do cabeamento da rede
 | Engenharia           | Switch-01    |    24 | Eng-9                      | Em uso  | VRD-22                | 192.168.10.30 | 192.168.10.7  |          |
 | Visitante            | Access Point |       | Celular Visitante          | Em uso  | Wireless              | DHCP          | 192.168.10.1  |          |
 
+
+[Clique aqui para acessar o projeto no google sheets](https://docs.google.com/spreadsheets/d/1PRmMV3pk3BwJKg33jsCa5jhA2bA7ni3uTRbqm3yuvJI/edit?usp=sharing)
+
+
 # Previsão de Custos
 
 ## Definição de Equipamentos
