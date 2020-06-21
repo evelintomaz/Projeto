@@ -111,7 +111,7 @@ Disposição do cabeamento da rede
 | Visitante            | Access Point |       | Celular Visitante          | Em uso  | Wireless              | DHCP          | 192.168.10.1  |          |
 
 
-[Clique aqui para acessar o projeto no google sheets](https://docs.google.com/spreadsheets/d/1PRmMV3pk3BwJKg33jsCa5jhA2bA7ni3uTRbqm3yuvJI/edit?usp=sharing)
+[Clique aqui para acessar a tabela no google sheets](https://docs.google.com/spreadsheets/d/1PRmMV3pk3BwJKg33jsCa5jhA2bA7ni3uTRbqm3yuvJI/edit?usp=sharing)
 
 
 # Previsão de Custos
