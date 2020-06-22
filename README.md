@@ -20,7 +20,7 @@ _DirtyTrash - Industria de Máquinas para tratamento de lixo e reciclagem LTDA_
 # Projeto - Rede Lan
 
 ## Descrição sumária
-*Rede com  45 hosts em dois pisos distintos, separados em subredes para os 910 setores descritos acima. 
+*Rede com  45 hosts em dois pisos distintos, separados em subredes para os 10 setores descritos acima. 
 
 - *A área da empresa (galpões e escritório) é de aproximadamente 10.400m³*.
 
