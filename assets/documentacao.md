@@ -37,3 +37,4 @@ A rede wireless foi configurada para atribuir IPs automaticamente via DHCP.
 
 *Senha:* **VISITANTES1!** (WPA-PSK2)
 
+A rede wireless não irá conectar em nenhuma subrede, pois não deverá receber nenhuma permissão de acesso.
