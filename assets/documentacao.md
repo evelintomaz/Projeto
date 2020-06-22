@@ -28,3 +28,12 @@ Abaixo está disponível a tabela de configuração de subredes
 | Reuniões                                      | Switch-02   | 192.168.10.10 |
 | Gerência                                      | Switch-02   | 192.168.10.11 |
 | Almoxarifado                                  | Switch-01   | 192.168.10.6  |
+
+# Rede Wireless
+
+A rede wireless foi configurada para atribuir IPs automaticamente via DHCP.
+
+*SSID:* **WIFI Recepção**
+
+*Senha:* **VISITANTES1!** (WPA-PSK2)
+
